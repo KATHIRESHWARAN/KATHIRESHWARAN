@@ -14,7 +14,8 @@ BTech AI&DS Student
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/toxic_kathirx?utm_source=qr&igsh=dWdzMjc3M2U5MGJz)
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="X" width="30" height="30">](https://twitter.com/toxic_kathirx)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/X_logo_2023.svg/2048px-X_logo_2023.svg.png" alt="X" width="30" height="30">](https://twitter.com/toxic_kathirx)
+
 
 
 
