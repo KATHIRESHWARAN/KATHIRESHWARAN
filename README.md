@@ -28,6 +28,7 @@ BTech AI&DS Student
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kathir_c/)
 
-[<img src="assets/kattis-logo.png" alt="Kattis" width="40"/>](https://open.kattis.com/users/kathireswaran-c)
+[<img src="https://i.ibb.co/KwcpV4d/kattis-logo.png" alt="Kattis" width="40"/>](https://open.kattis.com/users/kathireswaran-c)
+
 
 
