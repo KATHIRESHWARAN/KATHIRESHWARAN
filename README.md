@@ -13,7 +13,8 @@ BTech AI&DS Student
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathireshwaran-c)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30"/>](https://www.instagram.com/toxic_kathirx?utm_source=qr&igsh=dWdzMjc3M2U5MGJz)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toxic_kathirx?utm_source=qr&igsh=dWdzMjc3M2U5MGJz)
+
 
 
 
