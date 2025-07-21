@@ -6,6 +6,7 @@ BTech AI&DS Student
 - 🛠 I’m working on AI&ML,Webdevelopment projects
 - 💬 Ask me about Tech
 - 🔭 I’m interested in exploring new technologies and enhancing my coding skills
+- - 👨‍💻 All of my projects are available at [My Portfolio]()
 - 📚 I’m constantly learning and looking for ways to improve
 - ⚡ Fun fact: I love solving coding challenges and learning new programming languages!
 
@@ -15,6 +16,7 @@ BTech AI&DS Student
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/toxic_kathirx?utm_source=qr&igsh=dWdzMjc3M2U5MGJz)
 [<img src="https://freelogopng.com/thumb/twitter-x-logo-512.png" alt="X logo" width="30" height="30">](https://twitter.com/toxic_kathirx)
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-portfolio-a-collection-of-web-pages-that-showcase-work-logo-color-tal-revivo.png" width="30"/>](https://earnest-marzipan-2886d2.netlify.app)
 
 
 
