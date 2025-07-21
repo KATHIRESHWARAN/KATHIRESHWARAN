@@ -28,17 +28,5 @@ BTech AI&DS Student
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kathir_c/)
 
+[![Kattis Profile](https://img.shields.io/badge/Kattis-kathireswaran--c-3776AB?style=flat-square)](https://open.kattis.com/users/kathireswaran-c)
 
-<p> <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k" alt="GFG stats"/></a></p>
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
-
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Marcellus)
-
-
-Happy coding!
-
-
-[![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
