@@ -26,7 +26,7 @@ BTech AI&DS Student
 
 ### My Codingplatforms Profile:
 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"/>](https://www.geeksforgeeks.org/user/kathir_c/)
 
 
 
