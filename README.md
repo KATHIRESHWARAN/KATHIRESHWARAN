@@ -6,7 +6,7 @@ BTech AI&DS Student
 - 🛠 I’m working on AI&ML,Webdevelopment projects
 - 💬 Ask me about Tech
 - 🔭 I’m interested in exploring new technologies and enhancing my coding skills
-- - 👨‍💻 All of my projects are available at [My Portfolio]()
+- - 👨‍💻 All of my projects are available at [My Portfolio](https://earnest-marzipan-2886d2.netlify.app](https://earnest-marzipan-2886d2.netlify.app)
 - 📚 I’m constantly learning and looking for ways to improve
 - ⚡ Fun fact: I love solving coding challenges and learning new programming languages!
 
