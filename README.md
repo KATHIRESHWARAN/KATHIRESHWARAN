@@ -26,7 +26,7 @@ BTech AI&DS Student
 
 ### My Codingplatforms Profile:
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"/>](https://www.geeksforgeeks.org/user/kathir_c/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"/> **GeeksforGeeks**](https://www.geeksforgeeks.org/user/kathir_c/)
 
 
 
