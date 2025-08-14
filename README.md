@@ -35,6 +35,9 @@ BTech AI&DS Student
 
 [![Kattis](https://img.shields.io/badge/Kattis-kathireswaran--c-3776AB?style=flat-square)](https://open.kattis.com/users/kathireswaran-c)
 
+[<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="30" height="30"> ](https://leetcode.com/u/Kathir_tech/)
+
+
 
 
 
