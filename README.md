@@ -3,7 +3,7 @@
 BTech AI&DS Student
 
 - 🌱 I’m currently learning Python,C, Java, DSA
-- 🛠 I’m working on AI&ML,Webdevelopment projects
+- 🛠 I’m working on AI&ML,Web Development projects
 - 💬 Ask me about Tech
 - 🔭 I’m interested in exploring new technologies and enhancing my coding skills
 - 👨‍💻 All of my projects are available at [My Portfolio](https://earnest-marzipan-2886d2.netlify.app)
